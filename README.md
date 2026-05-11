@@ -1,49 +1,50 @@
-# "Hey, you. You're finally awake."
+# "Hey, you. You're finally awake." 
 
-Welcome to my digital workspace! I'm a Computer Science student from UniSA. I use my GitHub to build things, learn new technologies, keep track of my coding journey and of my backlogs in funny ways.
+Welcome to my digital workspace! I'm a Computer Science professional with a strong focus on **Artificial Intelligence, Machine Learning, and Software Engineering**. 
+
+This is where I host my projects, experiment with data-driven solutions, and share my progress as I grow as a developer.
 
 ---
 
 ### 🗺️ My Project Roadmap
 
-Here is a look at what i've built, what i'm currently focused on, and what i plan to tackle next:
+Here is a look at what I've built, what I'm currently focused on, and where I'm heading:
 
-#### ✅ Completed Projects 
-*   **[RoadGuardian](https://github.com/RoadGuardianGPS-IS)** - A 12 people (2 Project managers, 10 Team members) SWE project about creating a mobile app for road safety. A real hassle of coordination issues but i learnt a lot! 
-*   **[Praevisio_Ictus
-](https://github.com/Greed-dev/Praevisio_Ictus)** - A 2 people ML project which focuses on Stroke Prediction using Python. Building the pipeline was a pain in the butt, but(t) it works!
-*   **[PharmaWeb](https://github.com/ugomanzo-cs-unisa/PharmaWeb)** - A 2 people WebDev project in which we created an e-commerce pharmacy. JavaScript is a real mystery sometimes.
+#### ✅ Highlighted Projects 
+* **[Praevisio_Ictus](https://github.com/Greed-dev/Praevisio_Ictus)** 🧠 - A Machine Learning project focused on Stroke Prediction. Designed and implemented the end-to-end data pipeline, handled feature engineering, and trained predictive models using Python.
+* **[RoadGuardian](https://github.com/RoadGuardianGPS-IS)** 📱 - Worked in a 12-person Agile team to develop a mobile application for road safety. Gained hands-on experience in cross-functional collaboration, version control, and team coordination.
+* **[PharmaWeb](https://github.com/ugomanzo-cs-unisa/PharmaWeb)** 🛒 - A full-stack e-commerce web application. Handled core JavaScript functionalities and backend logic, broadening my perspective on how data interacts with user interfaces.
+* **[over-engineered-backlog](https://github.com/Greed-dev/over-engineered-backlog)** - Solo project to hold all of my backlog.
 
 #### 👨‍💻 Currently Working On 
-*   **[How to Sync Everything](https://github.com/Greed-dev/How-To-Sync-Everything)** - My solo project to create effective solutions using already existing tools to synch different type of things.
-*   **[over-engineered-backlog](https://github.com/Greed-dev/over-engineered-backlog)** - Solo project to hold all of my backlog, as well as the media i've experienced and the ones i am experiencing
-*   🌱 **Currently Learning:** Unity, C#,   
+* **[How to Sync Everything](https://github.com/Greed-dev/How-To-Sync-Everything)** 🔄 - A document dedicated on holding effective solutions for data synchronization across multiple platforms.
+* 🌱 **Currently Upskilling In:** Unity, C#, Cloud deployments (Azure), Containerization (Docker), and modern MLOps practices, LangChain, LLMs.
 
 #### 🚀 Future Ideas 
 *   **[2D Platformer Game]** - Making my own simple 2D game in unity.
 *   **[Personal Page]** - My own page.
+*   **[Generative AI / RAG System]** - Building a Retrieval-Augmented Generation system to securely query private data using LLMs, Python, and Vector Databases.
+
 
 ---
 
-### 💻 Tools & Technologies I Use
-Anyhthing that i need for projects that i want to do.
-
-The list of languages and tools that i use is wayyyyyy too big! check my linkedin skills for that :P
+### 💻 Tools & Technologies
+* **Languages:** Python, SQL, JavaScript, HTML, CSS
+* **AI & Data Science:** Scikit-Learn, Pandas, Numpy, (soon: LangChain, LLMs)
+* **Tools & Infrastructure:** Git, Linux, Docker, GitHub Actions
 
 ---
 
 ### 🎸 A Little More About Me
-Hobbies and passions:
-*   **When I'm not coding, I'm:** Trying to finish my [over-engineered-backlog](https://github.com/Greed-dev/over-engineered-backlog).
-*   **Languages:**
-    - Italian: Native speaker, i am italian 😮 !!
-    - English: Cambridge C2 CPE certified 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-    - German: I am working on it 😼
-    - Chinese: This will take a looooong time 😮‍💨
+When I'm not coding or managing my [over-engineered-backlog](https://github.com/Greed-dev/over-engineered-backlog), I'm actively improving my language skills. Clear communication is just as important as clean code:
+
+* **Italian:** Native
+* **English:** Full Professional Proficiency (Cambridge C2 CPE Certified) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+* **German & Chinese:** Currently learning!
 
 ---
 
-### 📫 External pages
-*   💼 **LinkedIn:** [Work in progress]
-*   🌐 **Portfolio:** [Work in progress]
-*   ✉️ **Email:** [Work in progress]
+### 📫 Let's Connect
+Looking for full-remote opportunities in AI Engineering or AI/ML development.
+* 💼 **LinkedIn:** yet to do
+* ✉️ **Email:** yet to do
